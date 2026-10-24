@@ -45,6 +45,7 @@ VMware Workstation Pro 26H1u1 版本官方不再提供简体中文语言包。�
 6.  **完成**
     启动 VMware Workstation，界面即为简体中文。
 <img width="841" height="525" alt="屏幕截图 2026-09-20 193532" src="https://github.com/user-attachments/assets/210b979a-ade1-45ff-a9bd-0690dea6fb4c" />
+
 如果这个工具帮到了你，欢迎点个 ⭐ Star 支持一下
 ---
 
