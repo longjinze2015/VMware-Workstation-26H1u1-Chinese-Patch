@@ -47,7 +47,8 @@ VMware Workstation Pro 26H1u1 版本官方不再提供简体中文语言包。�
 <img width="841" height="525" alt="屏幕截图 2026-09-20 193532" src="https://github.com/user-attachments/assets/210b979a-ade1-45ff-a9bd-0690dea6fb4c" />
 如果这个工具帮到了你，欢迎点个 ⭐ Star 支持一下
 ---
-###想要其他版本的VMware Workstation Pro[前往此页面说明请求](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/discussions/categories/%E5%85%B6%E4%BB%96%E7%89%88%E6%9C%AC)
+###其他版本
+**想要其他版本**的VMware Workstation Pro[前往此页面说明请求](https://github.com/longjinze2015/VMware-Workstation-26H1u1-Chinese-Patch/discussions/categories/%E5%85%B6%E4%BB%96%E7%89%88%E6%9C%AC)
 
 ### ❓ 常见问题 (FAQ)
 
